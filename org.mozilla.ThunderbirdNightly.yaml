@@ -1,0 +1,134 @@
+app-id: org.mozilla.ThunderbirdNightly
+runtime: org.freedesktop.Platform
+runtime-version: '23.08'
+sdk: org.freedesktop.Sdk
+base: org.mozilla.firefox.BaseApp
+base-version: '23.08'
+command: thunderbird-nightly
+add-extensions:
+  org.mozilla.ThunderbirdNightly.Locale:
+    directory: share/runtime/langpack
+    autodelete: true
+    locale-subset: true
+
+finish-args:
+  - --allow=devel
+  
+  - --device=dri
+
+  - --share=ipc
+  - --share=network
+
+  - --socket=pcsc
+  - --socket=cups
+  - --socket=x11
+  - --socket=pulseaudio
+  - --socket=wayland
+
+  - --require-version=0.10.3
+
+  - --filesystem=xdg-download
+  - --filesystem=~/.gnupg
+  - --filesystem=xdg-run/gnupg:ro
+  - --filesystem=xdg-run/speech-dispatcher:ro
+  - --filesystem=/run/.heim_org.h5l.kcm-socket
+
+  - --persist=.thunderbird
+
+  - --talk-name=org.a11y.Bus
+  - --talk-name=org.gtk.vfs.*
+
+  - --system-talk-name=org.freedesktop.NetworkManager
+  
+  - --own-name=org.mozilla.thunderbird_nightly.*
+
+modules:
+  - name: desktop-file
+    buildsystem: simple
+    build-commands:
+      - sed -i -e "s/Exec=thunderbird/Exec=thunderbird-nightly/g" -e "s/Icon=org.mozilla.Thunderbird/Icon=${FLATPAK_ID}/g"
+        -e "s/Name=Thunderbird/Name=Thunderbird Nightly/g" org.mozilla.Thunderbird.desktop
+      - install -Dm644 org.mozilla.Thunderbird.desktop ${FLATPAK_DEST}/share/applications/${FLATPAK_ID}.desktop
+    sources:
+      - type: file
+        url: https://hg.mozilla.org/comm-central/raw-file/c7d927f15aee11d878668518cc92c5267e8c5b9c/taskcluster/docker/tb-flatpak/org.mozilla.Thunderbird.desktop
+        sha256: c940d47874b0632bc9ba73415c2d4f8231dc9cce062426c6a59de170eedd9a2b
+
+  - name: launch-script
+    buildsystem: simple
+    build-commands:
+      - install -Dm755 launch-script.sh ${FLATPAK_DEST}/bin/thunderbird-nightly
+    sources:
+      - type: script
+        dest-filename: launch-script.sh
+        # https://hg.mozilla.org/comm-central/file/tip/taskcluster/docker/tb-flatpak/launch-script.sh
+        commands:
+          - export TMPDIR="$XDG_RUNTIME_DIR/app/$FLATPAK_ID"
+          - exec /app/thunderbird/thunderbird --name org.mozilla.ThunderbirdNightly "$@"
+
+  - name: metainfo
+    buildsystem: simple
+    build-options:
+      env:
+        VERSION: 118.0a1
+    build-commands:
+      - sed -i -e "s/Thunderbird/Thunderbird Nightly/g" org.mozilla.Thunderbird.appdata.xml.in
+      - sed -i -e "s/org.mozilla.Thunderbird Nightly/org.mozilla.Thunderbird/g" org.mozilla.Thunderbird.appdata.xml.in
+      - sed -i -e "s/\$VERSION/${VERSION}/" -e "s/\$DATE/$(date '+%F')/" -e "s/org.mozilla.Thunderbird/${FLATPAK_ID}/"
+        -e "s/org.mozilla.Thunderbird.desktop/${FLATPAK_ID}.desktop/g" org.mozilla.Thunderbird.appdata.xml.in
+      - install -Dm644 org.mozilla.Thunderbird.appdata.xml.in ${FLATPAK_DEST}/share/metainfo/${FLATPAK_ID}.metainfo.xml
+    sources:
+      - type: file
+        url: https://hg.mozilla.org/comm-central/raw-file/c7d927f15aee11d878668518cc92c5267e8c5b9c/taskcluster/docker/tb-flatpak/org.mozilla.Thunderbird.appdata.xml.in
+        sha256: 34e4d16663e01cc6406d2122321c451e3a750eff1bb38a6c1739a17598a02210
+
+  - name: icons
+    buildsystem: simple
+    build-commands:
+      - install -Dm644 "TB-symbolic.svg" "${FLATPAK_DEST}/share/icons/hicolor/symbolic/apps/${FLATPAK_ID}-symbolic.svg"
+      - install -Dm644 "default256.png" "${FLATPAK_DEST}/share/icons/hicolor/256x256/apps/${FLATPAK_ID}.png"
+    sources:
+      - type: file
+        url: https://hg.mozilla.org/comm-central/raw-file/c7d927f15aee11d878668518cc92c5267e8c5b9c/mail/branding/nightly/TB-symbolic.svg
+        sha256: d1d28b08e02a2747d6737a33bb9470d495c567ea403a771e1c83699456d6a30c
+      - type: file
+        path: icons/default256.png
+
+  - name: distribution
+    buildsystem: simple
+    build-commands:
+      - install -Dm644 distribution.ini ${FLATPAK_DEST}/thunderbird/distribution/distribution.ini
+    sources:
+      - type: file
+        url: https://hg.mozilla.org/comm-central/raw-file/c7d927f15aee11d878668518cc92c5267e8c5b9c/taskcluster/docker/tb-flatpak/distribution.ini
+        sha256: 2b4f4fd15427b8466ef995f657c487a5ec5a614ea4ec5ac4fed31112fba2e38b
+
+  - name: thunderbird-nightly
+    buildsystem: simple
+    build-commands:
+      - find . -name '*.py' -type f -exec sed -i -e 's,!/usr/bin/python,!/usr/bin/python3,'
+        -e 's,/usr/bin/env python,/usr/bin/env python3,' -s {} \;
+        
+      - cp -rf . ${FLATPAK_DEST}/thunderbird
+      - rm -f ${FLATPAK_DEST}/thunderbird/thunderbird-config
+      - rm -f ${FLATPAK_DEST}/thunderbird/update-settings.ini
+    sources:
+      - type: archive
+        url: https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/latest-comm-central/thunderbird-118.0a1.en-US.linux-x86_64.tar.bz2
+        sha256: 77d8ab97db6a1a867bdae3e7cd1cbfff5f6df184e40bb0663deeefed4faa2f10
+#        x-checker-data:
+#          type: rotating-url
+#          url: https://download.mozilla.org/?product=thunderbird-nightly-latest-ssl&os=linux64&lang=en-US
+#          pattern: https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/latest-comm-central/thunderbird-([0-9.]+)a([0-9.]+).en-US.linux-x86_64.tar.bz2
+
+  - name: languagepacks
+    buildsystem: simple
+    build-commands:
+      # https://github.com/flathub/org.mozilla.Thunderbird/blob/22e4c5bfffa1a28507a0009c3c84c4f17d69c262/org.mozilla.Thunderbird.json#L244
+      - mkdir -p /app/thunderbird/distribution/extensions
+      - for lang in langpacks/*.xpi;do export locale=$(basename -s .xpi $lang); install
+        -Dm644 -t /app/share/runtime/locale/${locale:9:2}/ $lang; ln -sf /app/share/runtime/locale/${locale:9:2}/$(basename
+        $lang) /app/thunderbird/distribution/extensions/$(basename $lang); done
+    sources:
+      - generated-sources.json
+

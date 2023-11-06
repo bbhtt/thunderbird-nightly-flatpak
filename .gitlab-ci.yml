@@ -1,0 +1,9 @@
+include:
+  - https://gitlab.com/projects261/gitlab-ci-templates/-/raw/main/flatpak.yml
+  - https://gitlab.com/projects261/gitlab-ci-templates/-/raw/main/flatpak-updater-thunderbird-nightly.yml
+# - https://gitlab.com/projects261/gitlab-ci-templates/-/raw/main/mozilla-langpacks-update.yml
+
+variables:
+  APP_ID: org.mozilla.ThunderbirdNightly
+  FLATPAK_MODULE: thunderbird-nightly
+  PRODUCT_TYPE: thunderbird-nightly

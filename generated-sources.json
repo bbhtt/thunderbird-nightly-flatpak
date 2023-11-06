@@ -1,0 +1,398 @@
+[
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.ast.langpack.xpi",
+    "sha512": "0e3988b1679c0fccea09f57054525d87a2af5acfafdb4b4a03fa1fd01c553dd100c597534fb88339b34d22dfcbd88bfbd9f0add7d35f51d2c45a88521c082d9c",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.it.langpack.xpi",
+    "sha512": "dcad4b843c7f3d6ee36f9ec20ea6aeda8c1c5be73521dc40dac4414070651c2fe4b0626ec3757176ace67548a60d0cdba17187edb9c4cc56325c94800eacd5c9",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.ja.langpack.xpi",
+    "sha512": "9cdea8044ad26d22e3f37ffacf987ae9d05c4341bfa04fecae8ebd2c0f6e06cb535ab89d54054686edd7a817773baf982c3b0261efdebb3e2b9ba1861f348735",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.sk.langpack.xpi",
+    "sha512": "92e21e3afa1300efc6cc86378c3027b267ae93e6d8f340af66d04acdc43578071049b96925c5ec7c699c7ac3ca29d91e8dfeb1e55b700a6a335fab92f27cbaff",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.lv.langpack.xpi",
+    "sha512": "2524793f19b6211a5dba865e4ecba43eaadf49d7ae24b4d279da3b6b2838dd87d811dfc7c11b730fb4f5a09302e503b0ef7894b982f1bf941f2c4fb7a45d0f7a",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.ka.langpack.xpi",
+    "sha512": "1e926b8652110d13cf6311ccf154bd7911a48820d66de31093f1826d11dc3ffc32e8b4122b94d85168c3b43b10bf65e095050aebd2d55ccce7a22b9a61f8eae7",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.nn-NO.langpack.xpi",
+    "sha512": "3952c0f1b5c019842306e9f36720e969a52cc081090ec155d36132a0cfd2df845657bc2736f483cea5c2b317870f91498581a04c640d78b3f0833e134c86cbbc",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.cs.langpack.xpi",
+    "sha512": "781d9a3afdf8ac7e2a77714117081bafb06ece5212f298354090e5892382714f85a617afae0ff6a1de92426e2afff1d731c7682f65d9b5fb35d3c41b0d12be62",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.hu.langpack.xpi",
+    "sha512": "b6a53769cb927fd3720cb7621c191108550d8c7a23320ee54515f386224f19c6417a55cf42f1e9a7ed0747b693e7c680408d815568b94bae5f9288ce1733590c",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.en-CA.langpack.xpi",
+    "sha512": "8c2ef29dc5a55d18a9909793a1c953554f1503b5cbc8465ead360d8de112c299a8469bca10eb1635a6ec808c9e5563788f55721c490910969939d067630a131d",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.ca.langpack.xpi",
+    "sha512": "19fd296564f1fe21cd7f2bb361d3b3067f4fac0f7135772d3710760560189b0eadf3348b078c567fdc191cbc90b88b92fb5dac433ec77d7453c4fd01e651c882",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.ar.langpack.xpi",
+    "sha512": "f3f55d5753ff1400bf0e32c32cde5db27494f8e2918b1be48f0af44201dd0893ee1666712ad8433368c92a897f5a4be2645ca4c42aab356124f1e81b57afa281",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.cy.langpack.xpi",
+    "sha512": "e1a6faa80eae1af3c8addf43c13da548858059b8e6945d9bd551186f78300e1014a351d03928abb64af8ffa35cf729eaf33d17ebc6aad6f960e7733b2891a6c9",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.br.langpack.xpi",
+    "sha512": "d6f31b2146e51598b0357a1443b6f834800afe66d6fd0aa9d094bec60d165d285034cd55d76d9c2addd1c921134681714feb62d29c72f42869364479f5f0fbdb",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.pt-PT.langpack.xpi",
+    "sha512": "da2450472f63a3ee6d98afb928b587ef8d9845cbab6d0cb9d378714fb8d4122aac76f37a20d824ddf38dadc264163362bc4f28d59dd074e3787da5c0f90788aa",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.ru.langpack.xpi",
+    "sha512": "6cad6284beecfd6a7baec0ed5ed3c8a25632b34fcb132256934cdb92466e5bf79a987876958b96dd54846181776fe0024a76420051207e77f1a15906ec09d309",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.sq.langpack.xpi",
+    "sha512": "3d158ae676eb3676c0db5496cddb3186ac2bd9b08cddf1215ccd7de271f4ed78e1e67f69e937dadb783251e7c074a8a61018e59f70818e5e41941442de4770b2",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.is.langpack.xpi",
+    "sha512": "58ad37e8db75085c0f7a8296d28e0b00241cce5dc6f4c603ea86a5937ae053118d941612cc6889c5a71267e8052fd0233e34fa4f5fdd0fc2d34c73ccee692287",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.es-ES.langpack.xpi",
+    "sha512": "58733674fa797675f6c03a71e141c09cb622e2b79ec1b41125c3981abbb387dc26999d336c662a080b64e19df690be250a9215b0d4464151d405d65ac6aae442",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.sr.langpack.xpi",
+    "sha512": "7db1aa5d50b11ca0bc6979224e9cf9b2e07c7fe0366d3051d9755910fe15a8316876f84ac3a112abba26075746ae53f7a699f6662d41d549d39ffd6ec2590644",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.th.langpack.xpi",
+    "sha512": "b467f00f9661b254c56e3698b0814c33d74e96f63368dc9b28db3389cc88d0e612b0e9e219be793a51c879bb66628effebd30409635812c9f07ffaddbcd47dc6",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.lt.langpack.xpi",
+    "sha512": "6d6218ee04a9db704ad3e3c00b17ab44fae9ee0fa08083810865871b5ed0b2c25c83232efa1abef0eedd146a9fb9ab3d4884f7c9c83351c4fee1ce9d2d735d0d",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.dsb.langpack.xpi",
+    "sha512": "39dc66a08bec65f7040ffd823b49e09ba5baca8d6d3609c5079fedf3fe459fc010a9a04a19ea19f2a1ae24b6204adef4fae571f8184810ae982c6799796e05c0",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.nb-NO.langpack.xpi",
+    "sha512": "1438cfb4827e4657c4a9458bfb0d02c5a8114f9d566f45b38d3bd1f2fd7ce9b4ce634e202fd019dd3805632fe2c1540bf9def14fccf91195eead29dba705c856",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.tr.langpack.xpi",
+    "sha512": "a0b8df518d8a84cf3a3504d3d4cc9a96d57a53e9d9458c8c47c53a767dc2a779e3b312b1cee84dc640b499508b44d722000c65ce6bd4599ab11a5cc25b2121a5",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.sl.langpack.xpi",
+    "sha512": "972323a8a45122132df41fbd46a2b908b3084a8c3c93e2fdf4cfb76f1bc93243371f12224715b9285e7d063aae08e4d8e6ec99af2f566a7c79a7339897b36702",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.ro.langpack.xpi",
+    "sha512": "ac9f86f05168850bab306a5f19e6ca6f38e05d4b119812000e6dcfd5443b0cbe14ecff0753219761068087fd0730748e3921278211677ec2a05faf2ea9b809c7",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.kab.langpack.xpi",
+    "sha512": "2b0a00936ac9b57a201b037b6bb86c7c1efb7b72f3e45c65360710c7361c1590730a94c130a5d91d962a46030bbcfb303c97688cbdb472b01c4bedaca2db3b74",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.et.langpack.xpi",
+    "sha512": "bf7861663127b13904906c602b39929d7d34ce661cb6f3cd05794311a81555a6765cf5f24d4c7bf2c5dcf5519722545813a8d2871bdda6a37ae2d5c3f428e604",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.fi.langpack.xpi",
+    "sha512": "d9ca1a3d68b351b7b65597802f1daeb7957c5b789b6de023a530b29806cf5306263d53e75e1c29b5a465c26775e91b0109dcccfde5248c8a14a1dd7543661422",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.ga-IE.langpack.xpi",
+    "sha512": "13f63475737ff4734dfd4344803a610dbf22e477cf47ff84d7cab3ee20e40af64e58108a69e15dc953f725fa91c85f4c174474f0fc9ad5d0dcd459c2139d33d6",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.fr.langpack.xpi",
+    "sha512": "8c777c790b6d19819b3b7be53a8154e2bd9d77a03058cd75f3e54bda175aeee9ef6216eb78cf0af55401580e329538451a5ad20bf77f8252539d813cb5b2c925",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.ko.langpack.xpi",
+    "sha512": "5895dd5c08d818af875e8b32d415eafea9027af63e4091e0061903143cf0382dc77c1d131b3ee9d2bffc9d8bab59712afa7408a7ef57af9240e22aa14233c3a2",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.af.langpack.xpi",
+    "sha512": "c02c254c2d21ea38e4ce2baaa6a0f6300c11bfa22eb8863a1e5721ebd5c7fb0a4f171b1fbba878baece1e8110dec132a0e552bd48fe06d8e43a2eea7ec59b1f0",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.gl.langpack.xpi",
+    "sha512": "4345d3fea90ca0c83861bbe046ea1d5bf4fa3345fe5b84e764982e70e1ffc50460d7ed31b29f669bc46ea6e957140cd3ba157dd5dca188d97cec9b755c641004",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.ms.langpack.xpi",
+    "sha512": "63194bde126427c428258904080607f10e94e269fd76c9a6ba0834157d21b2d5e8a53d37015323d46e114156a07b10337a5871ecd3a5bbba2db2ec2b7655ca15",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.nl.langpack.xpi",
+    "sha512": "584057a0bdaad38f4e4df00f5d0dda89b2ab1a39adbcbe8f04fc5b5b48f5390edcf68b6f1e53f99477f6df983fcf92c2064770bfe7171a72922547bf9bbcf157",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.bg.langpack.xpi",
+    "sha512": "e0f442241c8cb15fb3e24190bafa819c9264199bf939f3ace8230cd445b1974a0ea5daf91c7b880b1582cb82641ebfc8b5101bd694ed5e6197ec8b3bd26d0ac2",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.pl.langpack.xpi",
+    "sha512": "ff10017b9d0f9d90f2096f3a841baeeca14e697373c9fa566ac578702d800ee69768e16c8eae0185d5efa50bd7f8efbecce8d8c802f5c26259d7260e8e754bb1",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.uz.langpack.xpi",
+    "sha512": "b1858bc935787d45328adcd7ab748565f88dc95a511fb16cabfdf29ca863811b3853d7d44c9d3be44ffcfa162bc92a34b3604cde35e7dfde737bfd3f85c079b3",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.mk.langpack.xpi",
+    "sha512": "d1bebeb0565b5de80897cd3a57374a3955a42ebdcd4fe02adf159992395e7e57d44a55f8fc1d11cc0cac37a4e7ab78d3269b42f6d761cf3e12b1d58f2c23a168",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.de.langpack.xpi",
+    "sha512": "7112762c27e60f4e7413950a3c52de4e65d66c0fcc9bfa286301c99d7e18be1862440e637ecca86ffdc6742a0de889afec11aac5be5db05e751d35c439026269",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.es-AR.langpack.xpi",
+    "sha512": "df74bfde2803091752ba5bc6f2d5a3e4e4358dec103f07824be38a7497c599dc8b11f505c3e319f7d6920e1af2fc768b0f04f733d526281bbe19448e2aa07808",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.el.langpack.xpi",
+    "sha512": "4e03fd47fd09fb94216475ea81854ed9d966b0566f430ceb647ac46d86642d63d1a0356b4809554ffcff9b05d122f5e4c31c5c763166fca0533a4333b4e4b71c",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.cak.langpack.xpi",
+    "sha512": "a423a0b9015ce982937edbdbefed5be20606fce0f23a536e38a14f6c2bc4afe14c9e61fb9797086a135ab8e5d349237ba8331caf56fc632130c10e4f7bb4f6cd",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.pa-IN.langpack.xpi",
+    "sha512": "43ebfb2d90cbbc1f5d511d7492c7e4e2b0d9d77fb0eff2dd00bb600babfa75b78651ec0109e03ea599c56601fdc50e57aec3fdea2752dc12deb75bfc1bbcbc9d",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.en-GB.langpack.xpi",
+    "sha512": "6b51e5b040fe234dd4211b81a05fb1700db87a66ecd602c506a1b33f897d7b49e26fe12b0bac040bd84414fd8f627288d9f4c8ba3a3596bd4ad52d4d13382b80",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.zh-CN.langpack.xpi",
+    "sha512": "b53cb65b6e24555795ba0341e2934011f6faa0b3051e66a25fe4a8960184ec3050d1586577deeea5538594f511a5237fb145b456cb02ffb9f3784adf7fd597ce",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.vi.langpack.xpi",
+    "sha512": "7d359650c380d96ca3023913d5e7174ed0c36172a4aeaf87d60dda3dcc8567d7c52c5bbd43c37702e34771b0a1df99d31b12a27e458c4ca741a4758644811d37",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.da.langpack.xpi",
+    "sha512": "777a391bb79108ae35ea0fef88f984495debaa9c95b26c9da8966b3c65671661a0fd2a9fc99cbcd10e066afa97cf4087cd1b8118c9b31e7fb32db0071dc479c0",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.be.langpack.xpi",
+    "sha512": "68d2b29c389d2443946bea2954259772d4592d744a076685ce3fa29b295d7bfd41f36f2b4e51f66a7cc4acba0333ecd34cd659aebff5b04924863a89ce6545d4",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.pt-BR.langpack.xpi",
+    "sha512": "1e93086d385973bbf87c180c21c905823a9811f421199dc2f6cc8c660427a9a6f39cc2b64e32247fb6b711a750a18fc61c6355d8ce3b41bcd5f690cffea12710",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.eu.langpack.xpi",
+    "sha512": "5fdc07aca744cf01b338f71d421e9c8e7458ce81f615a59dd19819b597c54c52877c6de5eaaf407ef1bdb4ab3402407d9d9ba07fe8ce1e1ca2f37d00af79cde4",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.gd.langpack.xpi",
+    "sha512": "7c0264fd4669573c5f30753dda4c0e1358afc27444d72c8344428c13b917ebf4b428b0741a614ed91e777a5cecb06d9a9e19f6f07793d0b1501e818040ece813",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.hr.langpack.xpi",
+    "sha512": "e7b5cf6835fefe7344aca4c8bb2a84221d8ea24b3cba37ad1a93e3ed2b8d3c7ee2133e6090e86e218402fc8d03d28335c9358b91a54cef639289659a79d7b9e6",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.sv-SE.langpack.xpi",
+    "sha512": "4a608b7510171370a04b14214502cf60bb23c0fa42e9704436d3c709166d29c61c5d304ce1419e433ffa3fc8556d3d313357f970b5d3c7fa6f6db220d32d23e1",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.uk.langpack.xpi",
+    "sha512": "8fc21492197289a4a01a9bb621c7674f86d979948c71e7cf3a32e04105cf3f6f63d1bcf3b55c32cf364ed81b8930e41a4b426192f86097be1dcce107ba4cdb25",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.es-MX.langpack.xpi",
+    "sha512": "8e50b2eebebd44ea4fffa6aeacb12f1b72dc770bfc8eecc814cc18dca7d022af4061adbfa8ce24f33a87ec8a57fd2ef56515a332fa708bc010e0c0dac1bba203",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.rm.langpack.xpi",
+    "sha512": "325067c4950460239b6b2fe6d275bb06d446c01802a03ffd1fb0b48125e1204a73f8042ae7f1aa0d438c3abbb5d5d4cfa334cb0e5eafcf35f2ee0c68f175a5d8",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.id.langpack.xpi",
+    "sha512": "8def69fd084a55300d3ec41bfc03a958d556e809fb4bfb4a573d2650d6606c867d9564690d7ac891486096d1e01f60f7fe12652028e697204fbb9aec64f7a356",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.he.langpack.xpi",
+    "sha512": "2e155dfe679ed75a6b53a3e2de08616e3e9911e2f756cd0f535e8b9acf7c9fb5c15de84da8e7aafffd45c3daaa5b51870c5dbc5edfba9068d3f0e41a9c7fc42d",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.zh-TW.langpack.xpi",
+    "sha512": "685807fe15d096a458e1a9084fd4f772ef670c58afc1ba3f833fa6624924e920e3e575fb1e8a8bf3f6da0b55af073a067682edd5597258340521b33d5514c342",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.hsb.langpack.xpi",
+    "sha512": "b4e29b311e1ab9d959c64f89ebc98b92dc37da9ddf0297bb8301fc41e527bcab718d0f905a4f1e9340e0779ef06a2121a482117a431781c15fd10dce0ecc1b91",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.hy-AM.langpack.xpi",
+    "sha512": "18520976ac1b99eb1aac144f1bfc3afe5053e9f202aa45942d93aabefcbeb22286b65abcbd8224e7263d686a877a3be1d472d6f8d6e5ecd9ef448eabaf778ce3",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.fy-NL.langpack.xpi",
+    "sha512": "bf5cd9400f9f72635bb13d05e87c93ff7a0fe5d10c2366fc1be9f9503e9e1a60ef1ac3a8b89aa7a3b048c8ae4b609f9f2c6569257cf4bd6249bff58fe696120f",
+    "dest": "langpacks"
+  },
+  {
+    "type": "file",
+    "url": "https://ftp.mozilla.org/pub/thunderbird/nightly/2023/11/2023-11-05-09-59-56-comm-central-l10n/linux-x86_64/xpi/thunderbird-121.0a1.kk.langpack.xpi",
+    "sha512": "18fa9a3e646b3645b8c5bcf7b0b0baf92cdf0e8c4cc5d122994eb8b146d952312cf52dcf287b1c7ffc6357926d0a31f38547815cf00e06ed45b6d26cda5e7904",
+    "dest": "langpacks"
+  }
+]
