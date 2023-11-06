@@ -86,13 +86,14 @@ modules:
     buildsystem: simple
     build-commands:
       - install -Dm644 "TB-symbolic.svg" "${FLATPAK_DEST}/share/icons/hicolor/symbolic/apps/${FLATPAK_ID}-symbolic.svg"
-      - install -Dm644 "default256.png" "${FLATPAK_DEST}/share/icons/hicolor/256x256/apps/${FLATPAK_ID}.png"
+      - install -Dm644 "default64.png" "${FLATPAK_DEST}/share/icons/hicolor/64x64/apps/${FLATPAK_ID}.png"
     sources:
       - type: file
         url: https://hg.mozilla.org/comm-central/raw-file/c7d927f15aee11d878668518cc92c5267e8c5b9c/mail/branding/nightly/TB-symbolic.svg
         sha256: d1d28b08e02a2747d6737a33bb9470d495c567ea403a771e1c83699456d6a30c
       - type: file
-        path: icons/default256.png
+        url: https://hg.mozilla.org/comm-central/raw-file/tip/mail/branding/nightly/default64.png
+        sha256: d974bedf9e6fa65faa039276d62b941a626d5b0b9ab9027246a372bec8df94c1
 
   - name: distribution
     buildsystem: simple
