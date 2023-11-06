@@ -2,7 +2,7 @@
 
 ## Install
 
-1. Install [flatpak](https://flatpak.org/setup/) (>=0.11.1), [xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) and its [backends](https://github.com/flatpak/xdg-desktop-portal#using-portals). Latest versions are preferred.
+1. Install [flatpak](https://flatpak.org/setup/) (>=0.10.3), [xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) and its [backends](https://github.com/flatpak/xdg-desktop-portal#using-portals). Latest versions are preferred.
 
 2. Add the [Flathub](https://flathub.org/setup) repository if absent
 
@@ -85,7 +85,7 @@ Gitlab.com free tier gives 400 minutes per month of [pipeline quota](https://abo
 
 Please set up your own repository if possible, following the [instructions](https://gitlab.com/projects261/thunderbird-nightly-flatpak#set-up-personal-repo) or build and install the flatpak locally following the [instructions](https://gitlab.com/projects261/thunderbird-nightly-flatpak#build-locally).
 
-This package tries to stay close to Mozilla's official packaging and no modifications/preferences are applied beyond what is necessary for having a working flatpak.
+This package tries to stay close to Thunderbird's official packaging and no modifications/preferences are applied beyond what is necessary for having a working flatpak.
 
 The profile location is `~/.var/app/org.mozilla.ThunderbirdNightly/.thunderbird`
 
@@ -97,7 +97,7 @@ My fork uses a script `updater.sh` to update the Thunderbird versions and checks
 
 You can also use `flatpak-external-data-checker` like upstream. For that uncomment [these lines](https://gitlab.com/projects261/thunderbird-nightly-flatpak/-/blob/main/org.mozilla.ThunderbirdNightly.yaml#L155-158) and use the CI templates from [upstream](https://gitlab.com/accessable-net/gitlab-ci-templates).
 
-The langpacks are updated manually due to frequent checksum mismatches in the Gitlab shared runners, possibly due to a CDN or a cache issue. To automate them uncomment [this](https://gitlab.com/projects261/thunderbird-nightly-flatpak/-/blob/main/.gitlab-ci.yml#L4).
+The langpacks are updated manually due to frequent checksum mismatches in the Gitlab shared runners, possibly due to a CDN or a cache issue. To automate them uncomment [this](https://gitlab.com/projects261/thunderbird-nightly-flatpak/-/blob/179274c2d8e7eec185d112b049e6dfd09d7f6b06/.gitlab-ci.yml#L4).
 
 ## Build locally
 
@@ -130,7 +130,7 @@ flatpak-builder build --force-clean org.mozilla.ThunderbirdNightly.yaml
 flatpak-builder build --force-clean --user --install org.mozilla.ThunderbirdNightly.yaml
 ```
 
-5. To update, change this [URL](https://gitlab.com/projects261/thunderbird-nightly-flatpak/-/blob/main/org.mozilla.ThunderbirdNightly.yaml#L153) to point to the latest release and update the [sha256](https://gitlab.com/projects261/thunderbird-nightly-flatpak/-/blob/main/org.mozilla.ThunderbirdNightly.yaml#L154) below. Then redo step #3 and #4
+5. To update, change this [URL](https://gitlab.com/projects261/thunderbird-nightly-flatpak/-/blob/179274c2d8e7eec185d112b049e6dfd09d7f6b06/org.mozilla.ThunderbirdNightly.yaml#L117) to point to the latest release and update the [sha256](https://gitlab.com/projects261/thunderbird-nightly-flatpak/-/blob/179274c2d8e7eec185d112b049e6dfd09d7f6b06/org.mozilla.ThunderbirdNightly.yaml#L118) below. Then redo step #3 and #4
 
 6. (Optional) To build a bundle follow https://docs.flatpak.org/en/latest/single-file-bundles.html
 
