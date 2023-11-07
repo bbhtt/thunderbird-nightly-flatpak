@@ -48,6 +48,7 @@ modules:
     build-commands:
       - sed -i -e "s/Exec=thunderbird/Exec=thunderbird-nightly/g" -e "s/Icon=org.mozilla.Thunderbird/Icon=${FLATPAK_ID}/g"
         -e "s/Name=Thunderbird/Name=Thunderbird Nightly/g" org.mozilla.Thunderbird.desktop
+      - sed -i -e '/Actions=/a StartupWMClass=org.mozilla.ThunderbirdNightly' org.mozilla.Thunderbird.desktop
       - install -Dm644 org.mozilla.Thunderbird.desktop ${FLATPAK_DEST}/share/applications/${FLATPAK_ID}.desktop
     sources:
       - type: file
@@ -64,7 +65,7 @@ modules:
         # https://hg.mozilla.org/comm-central/file/tip/taskcluster/docker/tb-flatpak/launch-script.sh
         commands:
           - export TMPDIR="$XDG_RUNTIME_DIR/app/$FLATPAK_ID"
-          - exec /app/thunderbird/thunderbird --name org.mozilla.ThunderbirdNightly "$@"
+          - exec /app/thunderbird/thunderbird --name org.mozilla.ThunderbirdNightly --class org.mozilla.ThunderbirdNightly "$@"
 
   - name: metainfo
     buildsystem: simple
