@@ -93,7 +93,8 @@ modules:
         url: https://hg.mozilla.org/comm-central/raw-file/c7d927f15aee11d878668518cc92c5267e8c5b9c/mail/branding/nightly/TB-symbolic.svg
         sha256: d1d28b08e02a2747d6737a33bb9470d495c567ea403a771e1c83699456d6a30c
       - type: file
-        path: icons/default256.png
+        url: https://hg.mozilla.org/comm-central/raw-file/acb4bf0beb6c3fbacc07c71a4a5ef697d69c9dc5/mail/branding/nightly/default256.png
+        sha256: f46af33958814b7d26de5c896dbe70ef26f2d079a96c280bf0266d5e7aeb6904
 
   - name: distribution
     buildsystem: simple
