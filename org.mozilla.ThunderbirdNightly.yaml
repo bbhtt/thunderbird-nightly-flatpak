@@ -74,8 +74,8 @@ modules:
       - install -Dm644 org.mozilla.Thunderbird.appdata.xml.in ${FLATPAK_DEST}/share/metainfo/${FLATPAK_ID}.metainfo.xml
     sources:
       - type: file
-        url: https://hg.mozilla.org/comm-central/raw-file/c7d927f15aee11d878668518cc92c5267e8c5b9c/taskcluster/docker/tb-flatpak/org.mozilla.Thunderbird.appdata.xml.in
-        sha256: 34e4d16663e01cc6406d2122321c451e3a750eff1bb38a6c1739a17598a02210
+        url: https://hg.mozilla.org/comm-central/raw-file/89105d6b19f5c140601eacbff0160d1a02d24ed6/taskcluster/docker/tb-flatpak/org.mozilla.Thunderbird.appdata.xml.in
+        sha256: bde2b1b39feec10cc26b22d8548ed94513ad1280c0815d90a2d7c5b772a22424
 
   - name: icons
     buildsystem: simple
@@ -96,7 +96,7 @@ modules:
       - install -Dm644 distribution.ini ${FLATPAK_DEST}/thunderbird/distribution/distribution.ini
     sources:
       - type: file
-        url: https://hg.mozilla.org/comm-central/raw-file/c7d927f15aee11d878668518cc92c5267e8c5b9c/taskcluster/docker/tb-flatpak/distribution.ini
+        url: https://hg.mozilla.org/comm-central/raw-file/89105d6b19f5c140601eacbff0160d1a02d24ed6/taskcluster/docker/tb-flatpak/distribution.ini
         sha256: 2b4f4fd15427b8466ef995f657c487a5ec5a614ea4ec5ac4fed31112fba2e38b
 
   - name: thunderbird-nightly
