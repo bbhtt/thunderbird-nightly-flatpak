@@ -33,7 +33,8 @@ finish-args:
   - --talk-name=org.gtk.vfs.*
 
   - --system-talk-name=org.freedesktop.NetworkManager
-  
+
+  - --own-name=org.mozilla.thunderbird.*
   - --own-name=org.mozilla.thunderbird_nightly.*
 
 modules:
