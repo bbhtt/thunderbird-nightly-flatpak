@@ -69,10 +69,16 @@
   
   <screenshots>
     <screenshot type="default">
-      <image>https://raw.githubusercontent.com/thunderbird/flatpak-screenshots/main/image_1.png</image>
+      <image>https://gitlab.com/projects261/thunderbird-nightly-flatpak/-/raw/main/files/screenshot01-first-run.png</image>
+      <caption>The "Welcome to Thunderbird Daily" page</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/thunderbird/flatpak-screenshots/main/image_2.png</image>
+      <image>https://gitlab.com/projects261/thunderbird-nightly-flatpak/-/raw/main/files/screenshot02-accountsetup.png</image>
+      <caption>The account setup page</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.com/projects261/thunderbird-nightly-flatpak/-/raw/main/files/screenshot03-mailbox.png</image>
+      <caption>The Mailbox page</caption>
     </screenshot>
   </screenshots>
   <project_group>Mozilla</project_group>

@@ -70,7 +70,7 @@ modules:
     sources:
       - type: file
         path: files/org.mozilla.Thunderbird.appdata.xml.in
-        sha256: e757a8e1707753572c8655e1935718a67bc3c34fc28374c08b40323fe52223d4
+        sha256: 55af7ff43dadc35475821844214228853e62f6126be0b705cd0b580bed33d2dc
 
   - name: icons
     buildsystem: simple
