@@ -8,6 +8,7 @@
 
   <description>
     <!-- From https://www.thunderbird.net/en-US/about/  -->
+    <p>NOTE: This is an unofficial repackaging of MZLA binary packages and not supported by MZLA</p>
     <p>
       Thunderbird Nightly is a free and open source email, newsfeed, chat, and
       calendaring client, that’s easy to set up and customize. One of the core
