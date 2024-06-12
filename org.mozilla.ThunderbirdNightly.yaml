@@ -41,14 +41,11 @@ modules:
   - name: desktop-file
     buildsystem: simple
     build-commands:
-      - sed -i -e "s/Exec=thunderbird/Exec=thunderbird-nightly/g" -e "s/Icon=org.mozilla.Thunderbird/Icon=${FLATPAK_ID}/g"
-        -e "s/Name=Thunderbird/Name=Thunderbird Nightly/g" org.mozilla.Thunderbird.desktop
-      - sed -i -e '/Actions=/a StartupWMClass=org.mozilla.ThunderbirdNightly' org.mozilla.Thunderbird.desktop
       - install -Dm644 org.mozilla.Thunderbird.desktop ${FLATPAK_DEST}/share/applications/${FLATPAK_ID}.desktop
     sources:
       - type: file
-        url: https://hg.mozilla.org/comm-central/raw-file/c7d927f15aee11d878668518cc92c5267e8c5b9c/taskcluster/docker/tb-flatpak/org.mozilla.Thunderbird.desktop
-        sha256: c940d47874b0632bc9ba73415c2d4f8231dc9cce062426c6a59de170eedd9a2b
+        path: files/org.mozilla.Thunderbird.desktop
+        sha256: 57e4b4b88f6a046a621626615e15fb8820ab01b720875dccabe39b6a3fb8407d
 
   - name: launch-script
     buildsystem: simple
@@ -68,15 +65,12 @@ modules:
       env:
         VERSION: 128.0a1
     build-commands:
-      - sed -i -e "s/Thunderbird/Thunderbird Nightly/g" org.mozilla.Thunderbird.appdata.xml.in
-      - sed -i -e "s/org.mozilla.Thunderbird Nightly/org.mozilla.Thunderbird/g" org.mozilla.Thunderbird.appdata.xml.in
-      - sed -i -e "s/\$VERSION/${VERSION}/" -e "s/\$DATE/$(date '+%F')/" -e "s/org.mozilla.Thunderbird/${FLATPAK_ID}/"
-        -e "s/org.mozilla.Thunderbird.desktop/${FLATPAK_ID}.desktop/g" org.mozilla.Thunderbird.appdata.xml.in
+      - sed -i -e "s/\$VERSION/${VERSION}/" -e "s/\$DATE/$(date '+%F')/" org.mozilla.Thunderbird.appdata.xml.in
       - install -Dm644 org.mozilla.Thunderbird.appdata.xml.in ${FLATPAK_DEST}/share/metainfo/${FLATPAK_ID}.metainfo.xml
     sources:
       - type: file
-        url: https://hg.mozilla.org/comm-central/raw-file/89105d6b19f5c140601eacbff0160d1a02d24ed6/taskcluster/docker/tb-flatpak/org.mozilla.Thunderbird.appdata.xml.in
-        sha256: bde2b1b39feec10cc26b22d8548ed94513ad1280c0815d90a2d7c5b772a22424
+        path: files/org.mozilla.Thunderbird.appdata.xml.in
+        sha256: e757a8e1707753572c8655e1935718a67bc3c34fc28374c08b40323fe52223d4
 
   - name: icons
     buildsystem: simple
@@ -85,10 +79,10 @@ modules:
       - install -Dm644 "default256.png" "${FLATPAK_DEST}/share/icons/hicolor/256x256/apps/${FLATPAK_ID}.png"
     sources:
       - type: file
-        url: https://hg.mozilla.org/comm-central/raw-file/c7d927f15aee11d878668518cc92c5267e8c5b9c/mail/branding/nightly/TB-symbolic.svg
+        path: files/TB-symbolic.svg
         sha256: d1d28b08e02a2747d6737a33bb9470d495c567ea403a771e1c83699456d6a30c
       - type: file
-        url: https://hg.mozilla.org/comm-central/raw-file/acb4bf0beb6c3fbacc07c71a4a5ef697d69c9dc5/mail/branding/nightly/default256.png
+        path: files/default256.png
         sha256: f46af33958814b7d26de5c896dbe70ef26f2d079a96c280bf0266d5e7aeb6904
 
   - name: distribution
@@ -97,7 +91,7 @@ modules:
       - install -Dm644 distribution.ini ${FLATPAK_DEST}/thunderbird/distribution/distribution.ini
     sources:
       - type: file
-        url: https://hg.mozilla.org/comm-central/raw-file/89105d6b19f5c140601eacbff0160d1a02d24ed6/taskcluster/docker/tb-flatpak/distribution.ini
+        path: files/distribution.ini
         sha256: 2b4f4fd15427b8466ef995f657c487a5ec5a614ea4ec5ac4fed31112fba2e38b
 
   - name: thunderbird-nightly
