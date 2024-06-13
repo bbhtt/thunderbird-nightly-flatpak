@@ -3,14 +3,14 @@
   <id>org.mozilla.ThunderbirdNightly</id>
   <launchable type="desktop-id">org.mozilla.ThunderbirdNightly.desktop</launchable>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>Thunderbird Nightly (Unofficial)</name>
-  <summary>Thunderbird Nightly is a free and open source email, newsfeed, chat, and calendaring client</summary>
+  <name>Thunderbird Daily (Unofficial)</name>
+  <summary>Thunderbird Daily is a free and open source email, newsfeed, chat, and calendaring client</summary>
 
   <description>
     <!-- From https://www.thunderbird.net/en-US/about/  -->
     <p>NOTE: This is an unofficial repackaging of MZLA binary packages and not supported by MZLA</p>
     <p>
-      Thunderbird Nightly is a free and open source email, newsfeed, chat, and
+      Thunderbird Daily is a free and open source email, newsfeed, chat, and
       calendaring client, that’s easy to set up and customize. One of the core
       principles of Thunderbird is the use and promotion of open standards -
       this focus is a rejection of our world of closed platforms and services
