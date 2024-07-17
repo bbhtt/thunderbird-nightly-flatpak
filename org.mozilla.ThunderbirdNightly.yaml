@@ -28,6 +28,7 @@ finish-args:
   - --filesystem=/run/.heim_org.h5l.kcm-socket
 
   - --persist=.thunderbird
+  - --env=DICPATH=/usr/share/hunspell
 
   - --talk-name=org.a11y.Bus
   - --talk-name=org.gtk.vfs.*
