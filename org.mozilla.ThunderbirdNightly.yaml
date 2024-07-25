@@ -35,6 +35,7 @@ finish-args:
 
   - --system-talk-name=org.freedesktop.NetworkManager
 
+  - --own-name=org.kde.*
   - --own-name=org.mozilla.thunderbird.*
   - --own-name=org.mozilla.thunderbird_nightly.*
 
