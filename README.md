@@ -72,7 +72,7 @@ flatpak-builder build --force-clean --user --install-deps-from=flathub --install
 4. To update, change this [URL](https://gitlab.com/projects261/thunderbird-nightly-flatpak/-/blob/7816a3f02cf236c9678943b7f82dbedbf5087899/org.mozilla.ThunderbirdNightly.yaml#L110) to point to the latest release and update the [sha256](https://gitlab.com/projects261/thunderbird-nightly-flatpak/-/blob/7816a3f02cf236c9678943b7f82dbedbf5087899/org.mozilla.ThunderbirdNightly.yaml#L111) below. Then redo step #3.
 ## Signature
 
-GPG key fingerprint used to sign repo: F8A5F798CA257770
+GPG key used to sign repo: F8A5F798CA257770
 
 You can verify the key used, using
 
