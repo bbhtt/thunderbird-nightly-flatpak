@@ -65,7 +65,7 @@ modules:
     buildsystem: simple
     build-options:
       env:
-        VERSION: 134.0a1
+        VERSION: 135.0a1
     build-commands:
       - sed -i -e "s/\$VERSION/${VERSION}/" -e "s/\$DATE/$(date '+%F')/" org.mozilla.Thunderbird.appdata.xml.in
       - install -Dm644 org.mozilla.Thunderbird.appdata.xml.in ${FLATPAK_DEST}/share/metainfo/${FLATPAK_ID}.metainfo.xml
@@ -107,8 +107,8 @@ modules:
       - rm -f ${FLATPAK_DEST}/thunderbird/update-settings.ini
     sources:
       - type: archive
-        url: https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/latest-comm-central/thunderbird-134.0a1.en-US.linux-x86_64.tar.bz2
-        sha256: aba9f599f6da5f07d76fe72182be3f76e793a78134cf2a6a9ece1fe5c2ea167d
+        url: https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/latest-comm-central/thunderbird-135.0a1.en-US.linux-x86_64.tar.bz2
+        sha256: e4b8f81daead40de8981d08f78ad59734c8a87a048893e514996a9e5144e04b3
 #        x-checker-data:
 #          type: rotating-url
 #          url: https://download.mozilla.org/?product=thunderbird-nightly-latest-ssl&os=linux64&lang=en-US
