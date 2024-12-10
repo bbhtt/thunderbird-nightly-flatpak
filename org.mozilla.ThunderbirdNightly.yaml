@@ -108,7 +108,7 @@ modules:
     sources:
       - type: archive
         url: https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/latest-comm-central/thunderbird-135.0a1.en-US.linux-x86_64.tar.xz
-        sha256: 9b3258967949801eac5c97e318d20732b35004c42ba5b6d4ca6539701a169604
+        sha256: 3933eb4cafcbb544ef120b144a39b1474d7ccc7a996a87ba00d29f12d9d4080f
 #        x-checker-data:
 #          type: rotating-url
 #          url: https://download.mozilla.org/?product=thunderbird-nightly-latest-ssl&os=linux64&lang=en-US
