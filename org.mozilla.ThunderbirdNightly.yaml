@@ -47,7 +47,7 @@ modules:
     sources:
       - type: file
         path: files/org.mozilla.Thunderbird.desktop
-        sha256: 01663012b47deeecc5eb10f71f481e88868d811ca36a2b6bc86315a6b95a6dd2
+        sha256: 967a789c8c269e78743aa97a8a8f5cb9097e9f574b0a6a6318ffb8462bfed3fd
 
   - name: launch-script
     buildsystem: simple
