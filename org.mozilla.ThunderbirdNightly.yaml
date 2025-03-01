@@ -47,7 +47,7 @@ modules:
     sources:
       - type: file
         path: files/org.mozilla.Thunderbird.desktop
-        sha256: fe67aaa9dd05b7442d59e1b215c01e2a47f695b18a15ce5142891e858b35c7c7
+        sha256: 01663012b47deeecc5eb10f71f481e88868d811ca36a2b6bc86315a6b95a6dd2
 
   - name: launch-script
     buildsystem: simple
@@ -77,14 +77,14 @@ modules:
   - name: icons
     buildsystem: simple
     build-commands:
-      - install -Dm644 "TB-symbolic.svg" "${FLATPAK_DEST}/share/icons/hicolor/symbolic/apps/${FLATPAK_ID}-symbolic.svg"
+      - install -Dm644 "tb_symbolic.svg" "${FLATPAK_DEST}/share/icons/hicolor/symbolic/apps/${FLATPAK_ID}-symbolic.svg"
       - install -Dm644 "default256.png" "${FLATPAK_DEST}/share/icons/hicolor/256x256/apps/${FLATPAK_ID}.png"
     sources:
       - type: file
-        path: files/TB-symbolic.svg
-        sha256: d1d28b08e02a2747d6737a33bb9470d495c567ea403a771e1c83699456d6a30c
+        url: https://raw.githubusercontent.com/mozilla/releases-comm-central/f776928d05e3dbc3c31cfba02f93cb0e0fa821f4/taskcluster/docker/tb-flatpak/tb_symbolic.svg
+        sha256: 5fcfff194e54325e2cb81f934033fc8e5c1edb6c29f7162cf8bcd8f1a3a1d114
       - type: file
-        path: files/default256.png
+        url: https://raw.githubusercontent.com/mozilla/releases-comm-central/9dab9dd5ce8fc7c48cd303a0934f009a99358438/mail/branding/nightly/default256.png
         sha256: f46af33958814b7d26de5c896dbe70ef26f2d079a96c280bf0266d5e7aeb6904
 
   - name: distribution
@@ -94,7 +94,7 @@ modules:
     sources:
       - type: file
         path: files/distribution.ini
-        sha256: 2b4f4fd15427b8466ef995f657c487a5ec5a614ea4ec5ac4fed31112fba2e38b
+        sha256: 8c51d26f4142f6cc224fbea2003774e24b7343de995974eb0de4f83f6d47adbb
 
   - name: thunderbird-nightly
     buildsystem: simple
