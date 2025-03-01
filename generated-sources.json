@@ -1,398 +1,398 @@
 [
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.ko.langpack.xpi",
-    "sha512": "e00b0b5a05b5e071dc6bce7a45aef67b504d5c7b7ce69e17981eb985f0df3f9e34173b0ff9d997247c7a64578b7ffaf4fd96c21404d4b8ce7f677baa7312ab3c",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.es-ES.langpack.xpi",
+    "sha512": "3e0c455848b4c3fceb380ff48dcb4ac047841f9800d0bddfe0f9eecb2582806b41bbb467d0f204be3435faff1f926843dc77f4cdf5ad5623c94f25ae7f27100b",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.rm.langpack.xpi",
-    "sha512": "ddcc9233ffd8d89a1d13b389a69b51b2e71d160068ff5ef628be954bfc58742b213bab0350a4f45ea3f491295dcf0a3e430c870012d829c15a9c484a1bb04e08",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.ro.langpack.xpi",
+    "sha512": "75369b3bbfb5d7cebbc67541f5db7d24c86b45c23009343b40020e5f0926a956708d07bb418b38711f98415e9d002ede4e8ed5dfc32ac41edfe587366c6793c5",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.lt.langpack.xpi",
-    "sha512": "e4570d902a119489fd004c557e72546cf4357478081652b6ab2c6bddb0379f818c446245f528490d4f866d82b5cea73fbdffc1e35cb6eda4c8cc1e7df230e08c",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.uz.langpack.xpi",
+    "sha512": "ead4f0cd4680ff2bc8dccc5d6326d0f039e9869ba65af1f01f09f5bae337efc3d5ddf702bbe5524a8ddffa3f4edfb696f4007fcfd975b31561fbb9366f37568a",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.mk.langpack.xpi",
-    "sha512": "ec2d6a88489b4135182ba8568b3f058b0df363d5050fa8aca95e34ff156eb9e583d2ff02d2f9a358de95b712faeedeb2c108fa1ac4a359c881e64ee79ee9afef",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.pt-PT.langpack.xpi",
+    "sha512": "4ed2c073b23b8dcb7118821db7a9bef01e4b09ae04ff15fa5cf999b776fde8408ec1dea073721ad137452161864febb82ddc34f00a35a10ef45de973291d49c9",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.sl.langpack.xpi",
-    "sha512": "12edddd1d9c3709547da60fefeaa09153de9cb4ec93545c94224d1f97658271e196c61f0003f275ebe57d0f792ae0baa0514b1d07ccf27c56bdbe5645425726b",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.es-AR.langpack.xpi",
+    "sha512": "de04d9a682eb07a86a2b6c266f2073b134b18d0b38adea438b00a46a1de917559074d1d8a06ffaeba6e0b20704a97d1735591727109438b81e8036020978fbbe",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.cy.langpack.xpi",
-    "sha512": "2b4727fbeefcb42c1976fdb014a3aeabf08248ad233b46b914082a035a3a3a5b5d643495bf52dbf09a67cc4df897e7734d9f78ff80be9c6751748e6de02efbe3",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.id.langpack.xpi",
+    "sha512": "27b5283828b529996407e05f83aad43802f2442cb17e64d23e419dad991955c5b80f21c56334152e95a64aeeddca9d1b4a65b98dca154bfe2dfe0dfcf6e96e1f",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.sr.langpack.xpi",
-    "sha512": "ae242f5695073f3f9317c4283c8d61620ffaf736b6a8735c043750e57f9e5b089e10fb5192c43058d86e5d2bc487e240f5c4c119d2fc36a5e412443e29a0df26",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.ko.langpack.xpi",
+    "sha512": "b2edbf5ae1c81cecb160f38c21988f434c92c58054d0c857d83d1c2824b713b3a960bacfaa51d8824a19f29818ff581b289c271477c4145669858df6beedf8a2",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.ca.langpack.xpi",
-    "sha512": "a0092dc99a39326336740c7aeae47572cae752e218281655e4eb5a2d57ed150c97e5c77b9ef924368030088b9e2271f6f392fc67abc6db6d13e5699d0671231b",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.zh-CN.langpack.xpi",
+    "sha512": "9224afd534c3b90cd039abb2ffcec527e4b4ff0057a5ec36743cd325d135f7dc68e0d631137785d308328a82f13e161262bddb423ed6596df305b2b2cbef9feb",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.uz.langpack.xpi",
-    "sha512": "48dbe645f7742e94a6e79e97a11d7c70112da5cb1e24fe80da0091eeb251a7576660b66af79c9b754bde9cfb284eeca4609c16eacc583715c399d82eaaaae03a",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.eu.langpack.xpi",
+    "sha512": "f51e2d3b11bbd55cb2d76eede0d6a0994c4f990f365df778b1bf09d0aaae918dea4aced85b667eecdcc0577d189c9ba2f07fa21be1742043b0ddc58e636d39f9",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.en-CA.langpack.xpi",
-    "sha512": "14524556cd0041ef0776c30ab0f79ca8d3fa38aa442e622bc76107964d23cd11a7e14174074c503a03c50e2830a11ad6d378dbb579a258e8c5cefe238874e47f",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.dsb.langpack.xpi",
+    "sha512": "9e670821b181deb2cafdb0d4f02d98bb79cfee4a01beeda388687c3707bd864cfe98fe770bef5d7c33551f0ddb6876a413c9ed9a48072ab8f3641111e368d9aa",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.da.langpack.xpi",
-    "sha512": "00fd3c3b9bf1f313bc2e147e4f583f09747730678f90b043dc39c9379bac41b85b38f1207eb858b1aae0fde93b952b177bf2d206233e781e0d001496c4068b12",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.ast.langpack.xpi",
+    "sha512": "871dc153623221a89cb5d956c233fae744c72b455ad79ec61fa05988aeb66728b65fe8a0e10a13f5b84f72e65b0a54ab7edadcbd52d9234ac0a4e64213c0a4f5",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.sk.langpack.xpi",
-    "sha512": "f5857340b47cd68d2b1a5a0c37fbf5d2ec5e2460ad1a5970b5226ab546190ea860d1539c65d3c5f2ad8222c33d0678199f6f5c0c3817281f78c1ea9e22c0742f",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.kab.langpack.xpi",
+    "sha512": "17dfe4cfb446f81a00247a47e2dc1ca560613e804331ba9797ad3110cd9465f63cf6f36dadffa1db119ce591e4cb6a03a7effaadb2a7ce91015c3a2cb9814e40",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.uk.langpack.xpi",
-    "sha512": "b0dfddb9fc387bebf8f09699c889c10734bfeebfcebcc25210642cfed311aeb3462b96ded5a23d5c89cccf9545c54e14c74082a71f2782c59ef8d8c2b6e70c5b",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.sk.langpack.xpi",
+    "sha512": "ca8444c9ba99bb4553f151400c703861516e936e79ad0df17cba45e2358f5883903ba15840caa63f00f3b6d3cfdbcb84b14e2830b98c0a792b69f46f6e7ee4e6",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.cs.langpack.xpi",
-    "sha512": "12fc714cc52eb1fb9b22ec4bb2eeb5f74c2a45df6f34dcdaf3791dc93f58e5f9f97bf800f5e1b1dfb8c2a62a6d6ec74f5c3300d16a23acabab02d0d39dc228e0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.lv.langpack.xpi",
+    "sha512": "ffdabd482992218bd882a061f33aa91532ef3210c070f3df04d325657611f00188d4c972a56379b4418677485be6579738f3fc8e24ba92c62fe2017d8074f229",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.nn-NO.langpack.xpi",
-    "sha512": "632a6171fca6ca3ce90b2c4691e1e74ceb0007a4ce61ac4a1351549bec4dc4be874109f7023ba75a6dd8e716a2891b35188432abfbed77a9424b0b2b47bd2957",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.th.langpack.xpi",
+    "sha512": "3501be7750a4f54552764f4efbd843c03387428cea135ee41e99b639547a1d0902bbd0854e22b6528c2f9c5f227a2077b08eeb52c53290ae7c4cac46d326db88",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.pl.langpack.xpi",
-    "sha512": "e5da2874d5a96da1c7615a0bede997fc4d7b877630235494b4fa68cd3a6e0e3c13fd06ca5dade4631097592349338993a4a8a5285bc2c34a875f4bafa175a813",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.hsb.langpack.xpi",
+    "sha512": "214bc17163e7aab95590a6155065a59055b12e53597a41541f801295eda8ec6316e10db3f5d05d176bc6fada9ea2673a105e4aa3b69e481397d234e1fcccaa74",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.ru.langpack.xpi",
-    "sha512": "c8ae6d280fba9517f219e53f016663de031c7009f0490ab83f1ce8a223eb748dd31db20deb4c151c2118c3ae4db2335d027a08bad0442296d715c900dc1e12e3",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.fy-NL.langpack.xpi",
+    "sha512": "e9b03dff0bdfdde8254fb333960cefa69f0d4fc067581b8e39ea56b7302a0c51dc57f149e312c18476d53c7f27bc25486b04f2b6324f6255e3da9915f1b12567",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.ast.langpack.xpi",
-    "sha512": "49683e0d44fe636304c05e9c9ce01ada9f5a3db59241039302bfbfdc19995ef0fdf33d5f59d4faf347fbd207ef17c8286532acbb27cb55a10dc15dc73050af67",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.kk.langpack.xpi",
+    "sha512": "fd58a28e5afa4eda541833eeae5f6f368a539a1c961aac4933a9424146159099ba34f116c9a8d70a9ee6515f1968970a09917aa8d1a92696079821a2339572f6",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.fi.langpack.xpi",
-    "sha512": "7d9eb0e5de1033eddbcc3ccd6afe99adaf997743d3665a65eb8cd2a0be614ca4daa2b324bd304bbf2e7240c47d8d568205dcce926021b42d74ce4bd647dd5b15",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.et.langpack.xpi",
+    "sha512": "6c344826641593740d16e9cbe905b2926ae7a71008128ba3a5a31749c9c4f7d02cc180c825d6514bdb14203ae32fd8a3e24b399f4d1f983a617de1febd44458c",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.hu.langpack.xpi",
-    "sha512": "1f5679a91cd7c1a99fd15df5dd0ca6000f724360b0b09b5b64c7a9b86f850388ce7f60bc63fc313e6e4004946908c2f659ece61c7d8afd47c5d012f517070f73",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.gl.langpack.xpi",
+    "sha512": "24da13a7d53062a1ba6cdfe29d02965b3c9e29acc88b3cfae49766446a1d25a6ebd341698f34b57bd9f3936f5e0cdc33037c2ed6dae9d989555d1cd52b5589d2",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.ms.langpack.xpi",
-    "sha512": "b2cb9fe705177e8d9d3e3d00b019d49d83193e81dcb8c2fb793c5bf611af3953062a05aef0f2f91989f6504a23399c289f166939d54e895823f48232559618dd",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.hr.langpack.xpi",
+    "sha512": "7d9ff21fb226bc98556ad90dc9730b96d56b54110c96eb7fc7e12b67586c686dd835fe9383de0decc0571bf4c02190af4d1dd72d63f37f3c2bae34052926b5ab",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.bg.langpack.xpi",
-    "sha512": "8e1346531d00c3c60ad3f4b33eeeaefe455f702aafc0b1026e2cae1156b68c9a3bf9681d5f2fd400655c1ad6da909fc049b9dedbbc0d7b826973abd6137308f9",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.cy.langpack.xpi",
+    "sha512": "f77ce7e52ce33b0bd9aa7138f0348974140349a714b4c1c40c99d7bbcc2a7ed890664b05ba5d768b7cf12421f8df6cddc2939bd5da04df8d55e46fb3ed7e3be7",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.th.langpack.xpi",
-    "sha512": "41057860133b76fb5c44b9fb7915a40110daf401499f0d498b51b9da5c04514a4ad90d13805354004de8568dac117976b2291b1cae71dc9970084c576461d732",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.ca.langpack.xpi",
+    "sha512": "47f8339cc8d14202088bc426bb2b61381ccd36c38bbffc2ba0c8b463f86671c8de881df3a095688b6231aa730ad83cdd6f9ef9dd35b651b045fd0cac997b375c",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.gd.langpack.xpi",
-    "sha512": "beb9f2e28610ddfbb8d5cd11f18dc15f935dc823646b9adada40493c233f7d8514aecd9fb50883ffab6e805bbd4363e348623afd3fec70edf06c707e419e10a4",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.pa-IN.langpack.xpi",
+    "sha512": "9f7144d5a0f2b558c95f3a0f44f6a2fa23142f5eac33caae2e478156e92c4dc98603065811a49b17a072053f05b10e383157d66fb1dfa66ab3f8b5cdbc19d582",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.es-MX.langpack.xpi",
-    "sha512": "3cacb737e2d8c20b6f052e5a2a3459934fe5b633c14d5eb4e4af548ac4154db7084a4f9ef8af00566a4621788e65086303709ee248b617b801559cf87c0a0b21",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.br.langpack.xpi",
+    "sha512": "027c592a4e99d3c5a36fff98e825218d618259bc6a58e7d13423dc4d07a0d88f0ff237cd8e03204b8b7deaea3edb97b7007d2ebd7ccd074a48b8bd2d4f5a893e",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.sq.langpack.xpi",
-    "sha512": "76c16958c56d47022426a933ea11416dd79247e09c7032428f89a0464f3fad3ab179617f4d1ea866930e660e17d43546b76e2a305d9d8340c4201c3fb862d2bf",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.ga-IE.langpack.xpi",
+    "sha512": "00888c04e142da3b765586ddffdcab39f43b47a4c71be5bbaf487d675c17e1607bc5ae6a4ef2089600dfa72e7c60bb249d9bc70b6dea403254a0eddb2e7a34e6",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.af.langpack.xpi",
-    "sha512": "ecb7e147bab220ab00c6a570e076ed573d64720044e5c7448e46f5b18f076cbed0ea1da760a85fe3141720a81f01b8826c649aca16467aef3f85767f79ded269",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.nl.langpack.xpi",
+    "sha512": "f7bd6491b9d651a15172ec501816ce7e6b17ba1411e921b75fdbac0d6ac424a9fef1e82f00a9a66b4f4551df55cb698cc328c9a11935c18328a152b290f2fad7",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.ga-IE.langpack.xpi",
-    "sha512": "e08d4ccc716f372a805a1fe6612c13b266a1834675acdc85e75ba0248425529b28065f5fcdcf3b549880879517598c40102cd92490924072fa60852a3436319a",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.de.langpack.xpi",
+    "sha512": "095b2463d26c0a946acd9d363a2cd1b55dcfcec56b0f3e1631e2876d78c0b2ed708c0700d41f0baf45a8498aac48ee442c19691aaa0879f5f0095498e69af6ac",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.kab.langpack.xpi",
-    "sha512": "e6fd8de6276298d6f85d16bb1983affa7515178ce2d96b51032eaaa49461a682b6eca28f5c6452b745cc285528cd6fe1e22d9953968e29fbc3940bb11a2bc660",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.zh-TW.langpack.xpi",
+    "sha512": "3794f229b4fbd64150120c1d72ab40b27ae7f01ef2315202ede95124c3c31bd1e7566a1d2f1d07c7504ebaee2bc4f0f666a467ee0e3a69a5595470163190920e",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.pa-IN.langpack.xpi",
-    "sha512": "16afcd4ceaa1273cf1d2e999dd2440146a27655ec12f358584e39409124a56aeb45ff06cf1781568dca6e56f36f3aaf45ed49084a0659b2d5456c7c6799ca788",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.gd.langpack.xpi",
+    "sha512": "7c171ef777a46b418aff8493b347bd976e2a7a086803ff2f6d2ef755d8153bf9be37f37a8d131bc88e65939e829ddcdaf7f1163b95976e85992b023f2be54636",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.nb-NO.langpack.xpi",
-    "sha512": "7fc7d1590de31cb3d3dc1ebc1cb6ddd8f1fa37d605c5ed9572c17cb3ae2a3af6c07972d9b17df08b3d43cd0e257f51c04496b7f32be9dab6fba4b4f27010c47f",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.rm.langpack.xpi",
+    "sha512": "c688cd0d4c3d0c47802d1a3a682ad1ef9d03b71a17a1e058b289c327afe9321c4161d918df40fca9d4ba00855f435a1670ee32abee21c2f3743ab695f40045a5",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.ja.langpack.xpi",
-    "sha512": "02755fed90ad49972cbd7e910f57841b768b55d80b361e1e85ad8d0f7608bd5235c24bbbbc2727ced2a9a290dda9a4acd177b24f9e97707641c729a9e8ae6027",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.be.langpack.xpi",
+    "sha512": "928ddd5b6b75b68e892b9764165e7a42c15b0a01ceae8ca87501347ba5b6168feafb2af8b08ead71b4efc26e4996e46d2c20bea19b276d58f638c11f0e8e9587",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.it.langpack.xpi",
-    "sha512": "769037cc93f897b5c1e3871051fe026fe2009042d23582897abb5e27a2ae8db9bd7c9dda1e406ff7821ea8fee8f7c315d5bd3e9e231083bc516bfd422fd0ee8a",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.es-MX.langpack.xpi",
+    "sha512": "2c27d1b14f9b1b5b853719cb74948229a921023c3148fe139b6846fa69d5d2f649b37ae76caea974b19bd2f58cdea8389acace7bed50d1c2bc2c1dc967aa62d5",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.en-GB.langpack.xpi",
-    "sha512": "187d643c1a452e83bab453ab4f8b6369aec37aa141057cac1b87d72258a314cfc8d31b7c4c9886d124d7be41872b1a1ad79d7c551b9c6f6f6cd3bc9ca52c572f",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.af.langpack.xpi",
+    "sha512": "e0e923de1f330c143c9c3d3b0167330749eced81ca3ffe9fca153acce48de346c7e21dccf73cdc4989fb3dab1b129da076845c5c57ef42078e8ab8f9297bb38f",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.ro.langpack.xpi",
-    "sha512": "7dbfceff6401d833c1fd411d38ee4f2ce0153903f13d778442ede1a27c38f59685a43b7beac2b0b63c20c89330e1fefbf66fbcf9ce5395ab9ed4bd6de098d929",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.sr.langpack.xpi",
+    "sha512": "3edf60a917766a89961f2a041674a72253c68ee413a439f0b7496b4e09ab3c8b2b7cf247d1c1742dbd68f0105081b937863a05f53ab94ba09b6c83f567769d3a",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.vi.langpack.xpi",
-    "sha512": "f9ddac824131eb11e7cf98c6f69b173faf68ebcc6b968befb6264176a54c4292f8d6ecc8d3489c5a47e27fb6e3890ba5db4eb1ed2ade702b9aed50af43fb635d",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.sq.langpack.xpi",
+    "sha512": "4865795c5b8a371d792a3f3b2d34f3a4ed03bc68269116041d8bee105cf99da6f4f7a9d4e7bbc0077328b0d9b3d309365234e56b725bebb1edb0e59dc4e72a9d",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.el.langpack.xpi",
-    "sha512": "d8c1292cbf93d5532c35981105082f1a83e3feaaba560c070bd27aef05aa39de4254bbef7b30dbeda7f575e72a7cade3d2d647a583d9f6c153e7e4c8838fbe95",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.uk.langpack.xpi",
+    "sha512": "d0e3abdaabc43f20377a582334ee5f55a58761088a60d65ca30c6005dfb01970817f4745736a5a09230106530e267cb5c71e7199221606935b79a78afaa7f365",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.de.langpack.xpi",
-    "sha512": "03c55598d44970d47ab5c05a9f76e498b9f9f59f8ee85d3b755af88cf95dfa592fb471d484a6215708b63c61daa9dd62016e0a3632d85dd3a0deaca6c603f5bd",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.ru.langpack.xpi",
+    "sha512": "b895daf30f3562118ca8d5a9eba9668538296d54516163974675c702fe5471954a9d79e3b4be63486ae032036178993fa77008fcc73cca99315a475b6b8d5b2d",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.is.langpack.xpi",
-    "sha512": "81b99374e8fbdae557c5c96917de81c7f5c5ad111b277d07b947b472400cc0dff15c254d5491dc216e5805edd176a659733703bd81d3cc5582d42f0cfcbfb606",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.hu.langpack.xpi",
+    "sha512": "bab1c32e99e699ec6b46187a4bf3cc138ba6d834a8d3cda65e97e811ca9c841635af69454b241780cba19a5d959956b041a872a8753901344cbf5d6527a6da29",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.fy-NL.langpack.xpi",
-    "sha512": "0c3418579ad774769c6ccb67518cad753ac35d4a255186c5d76f2a3de7625060bb29d4a83cf4f6a4ea75440bf2c2849dae3a0f704daac6655650a6d781819f75",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.he.langpack.xpi",
+    "sha512": "32ee6f0c6b57d1e20b9087610a0300382bbcf44ca912ee65d66a6c82cfa9cecf775f39ece95ea1810448868ac7626959438b373326737085194bfa60db54d94f",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.sv-SE.langpack.xpi",
-    "sha512": "272fd711d194bdddebcce2352d608bed8ab69a6681120d8d695195e51424b513c394b228f1bbfdabebd31df22226ebd2cebbac4ff2e4189f5514bb98a60a397d",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.cs.langpack.xpi",
+    "sha512": "15c149245642a284782c4099e7380745fa61feaf8d7adbf8c1477ac5be8bc272c619ee11bd89916c3f9a73e260a06ffc2a694e2d0f3d28a47b394e0d40c6ecbc",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.hy-AM.langpack.xpi",
-    "sha512": "d806502704e3dada1fd5c10dd88a207a11c09fe8555eebfe5a1042ba3c094e83c653b3b132fb72c5531a131f8350b14f76df0d8dcd7c5cbd829f73ec5e978f94",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.cak.langpack.xpi",
+    "sha512": "fa599a25bfd612202e3f1031988ea973c245997a247f900b00b13479976226ff352c7276cb7c43d7caa21d46831f59409e02c7393078a75001d3f9cc2c8ae83d",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.pt-PT.langpack.xpi",
-    "sha512": "d871ad7a0b1731d14e51e5bb229746d606cae501631205835ae6152364414963f91298eeff3d61a2c88230b4cb1888349499e7d408b418158dc1573f90632ff2",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.ka.langpack.xpi",
+    "sha512": "ac6f89239e8344240d8efb9cbfbc15179c228a51ac6cff88c8d57e4ac0aef40f9782871f9d9bab6b05c161d1aef027b6ac465be0122b4a4a4a12f4b4b2eb17b3",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.cak.langpack.xpi",
-    "sha512": "4f597a05219db6e3527def6fbcb472b455f03e0454747f48886c21e569c95a63c7250e069fe02a0c8375df53ba96598151328113a5351bd52ac4eff88c01647c",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.fi.langpack.xpi",
+    "sha512": "7c7e7dbe32f75d3614127a266b7e1b65a831c6dd9cb2f1f12c8ed674fe6607aeae45dee982a18e03078d0b1b855c58e9041b5de9e2e5fb6f9aea9c94ba43e648",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.ka.langpack.xpi",
-    "sha512": "0c4cc32b2a0111801a23851608d6958b570944f1998e2653dabef2a266348bf079f2a118870bcc7207d35ba9658e741726e9d4421c1d092c53fe3c13c3a7d8a0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.is.langpack.xpi",
+    "sha512": "1e575f38a35b94662d3b35697db33c080349acd394c164d8247862d3cd65795af1f8b179d089dac3697073e3492609e532b3612ac433cb6238fbe577c53f2320",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.hr.langpack.xpi",
-    "sha512": "41b4cc0e1feba672e548593472aa294e2879780e0b349c165571cee5b5df54bedffcb007b8a86020e9a996ec174b2d92760c4c8480a463d7115c417e2f72a3c1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.it.langpack.xpi",
+    "sha512": "95e46e325b24f9a3ef117e8ad060953f72e85dea41a598d747c2b9a07f1a5f24ca32111f73ca7c62f4108208e57e1706f0cf8a934ed02eaffc53522fda1db3ac",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.zh-TW.langpack.xpi",
-    "sha512": "97f92a0704720fff65321e9cf530f2255f6b668cc11f8ad2538ca5101af42a45bb954fa6bba2dc8e097e41d85dafe8503ccbd5138c356a9d8fff4863dafb2cf5",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.lt.langpack.xpi",
+    "sha512": "64701933d1ab807c01ff53a744121f05f59fab83016759ab85da0716b0e060d0b3c4e66a65cb924f3b06bff3c9178eb0378395410f471e931757facc0e1ff12e",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.br.langpack.xpi",
-    "sha512": "46c1b40fe894e41d3434a9db25236521a8ad96e4f281fa1b15f87c060fe3a8e2049559be65940d1a3f35ad69bc2c0167a2d3d05ea43362ef4313db1233ce95c2",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.ar.langpack.xpi",
+    "sha512": "54781c3daf2cdfd29217fd5d8b0e273077e77f14c09339c823bff40cd2663c37356518c1336c0a0e62f1744b50521128574aa10defab2c21731e190ac0809dc0",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.es-AR.langpack.xpi",
-    "sha512": "f184a45706ac894b8869174558c1f0272aef9638f3b9d85a111865182a4fdfafca748057a536ad0e7a2de4eedf60413e274b24ee742d0f455b9eff24e3cb7163",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.pt-BR.langpack.xpi",
+    "sha512": "f2cca55f5314568a911f7e29df07aa0d78dcc718718e9bb5690c85476fdd90722bf0e32bb8460326ccf737d3897bbd8a2837e7489875fcc833e7911f72f5908e",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.nl.langpack.xpi",
-    "sha512": "d35e04852c429dbe9b2ec00cd1014e36b1ae3e063d29fb3e40eed631a5ea3f985f34abc56c85b09683ccaa0221856311611878163d317c92f76b9e1fc8347d00",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.el.langpack.xpi",
+    "sha512": "29cb24bb5dade71ab373e24b3570fa76e2bd86597c9463a4660a2c8330a581cd597a065c49023625b7008089fc927e7ca325a7be9b2f80981e7c451ef938dfd1",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.be.langpack.xpi",
-    "sha512": "43d46da40648b35038dfb8b6832a3b66c56d2223c0a650db13d109037ea3f07bb47d2dc4c4c85fc63c322046c91c634dc4251fb4dea762096526a7cdd6735adb",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.hy-AM.langpack.xpi",
+    "sha512": "1b44076e0074ac15e2f2eb571301969c72f87c98f4c41a6a67d22811797a4556c4fd3118bf69335727424541d2a18cf38066bac56cc9d91f1f6b05849145502c",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.dsb.langpack.xpi",
-    "sha512": "d850ccf80d5bcf790e6c1767493d0b1896d9ccaddb4b7c4e572b303960302b39ef20ba906bbd328398bd586a2f3b19e82f43f1ba4de59d51016f24bf1148e7c9",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.mk.langpack.xpi",
+    "sha512": "6475fbeb3837556edf914a8e4764da9476365e84ec480d933de754bc66a13c749d6f5c40361dffd544465cf6922d3c38a08767b41a7f3c6e1a67fea2be97961c",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.tr.langpack.xpi",
-    "sha512": "e8d8bd6fe6cee2f41914bb7cf761cd2f5e203962962d85193b523b1dd4b80e295c88274d54e7d0b70cbf2a2c73cfd88abcc71791270478fdaea4be6f9c33f798",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.fr.langpack.xpi",
+    "sha512": "8ddcd61972c7efb2c2ec87cbf7958070692f1c8f99c996304a7d9c744aeac27394f370663961b86a8d64d5911fb600e2f39fc9c632647abbb45bdc07f7a0ef14",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.zh-CN.langpack.xpi",
-    "sha512": "2f8cd5ff35cfb68dbbb1276f0305bef70ab8a9ece836f6e97ea03f82d1bd49f4db8a59bea66f8e6c90bf54e79118ec4a8f2e717b954ff7945ebdc75ad4105ba7",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.pl.langpack.xpi",
+    "sha512": "ad739be7863ddb8ecb3ac03ca5a9aadd14c8527535543473ae3fdbcb76cb8ea9ee397ca862036bfc6d9e78ea257b88d618c529ab6b8cc8b1b91a2f3af3414929",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.he.langpack.xpi",
-    "sha512": "94147d7cc4fdb8d6b0244f35674451ef9414733c6ce043b81c7666aa333266218fe5b0158772d8bf8b853dcc4bb347ca77cfce4c89272aeb3d34f45f2242760e",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.ms.langpack.xpi",
+    "sha512": "0dd19cdf59492fbb24b9416e05b4193c364040ef6ed128ad68defc64f68e8289e2a3261223aafea8625f87d28b0367cb37d28c26235fe7bc3ee7d0e4194873ce",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.et.langpack.xpi",
-    "sha512": "841ec170e117aad426ccb7e8fed4b6516bd532d5669a5a1489dced04458688074d6e7652553ae2b7a054357e53539123cf64656e004f593c1c8401d5ff43f09f",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.sl.langpack.xpi",
+    "sha512": "b5783144e56e5c4e61b44dffa16e14feb1c73e7722b8f55dd3063fe5beb6b768f85d238f6785d0457f1547e91b3be3f83b9c77bf27baa5abce75d96bdcc51338",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.ar.langpack.xpi",
-    "sha512": "18d015c6da837f457a9b51fea86d4422744fe6b53a374b69d354959299c21d0f03b0a263feac16287e30380d087abc331b501d06d3f49fd0b0cb9a6fa3a0ba0f",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.tr.langpack.xpi",
+    "sha512": "36cbe7cd397e5a64e41e225910ed53ea2e1993c03dabc1405e88c102d9f22f40434a6df0533b7001f3c8b39df904a815be65e3ebc2f670ffda2b0325c54dd077",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.fr.langpack.xpi",
-    "sha512": "03f84b5ba1408e32a6745c9e9da5de4208d72d7cff7097dd073393602fdb501ae10b8ae441f8753899f41074b36f6970c489ef658a4cecc8f01b405b96196c30",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.vi.langpack.xpi",
+    "sha512": "2f196a365da661c81e4eaac7753781c8da6b08cf5c9b19ea0b7f60f6777e49f7c59af31fac281b3c69fe486d78599e87be1782384d21145c096a463faa708335",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.eu.langpack.xpi",
-    "sha512": "08bc7de55f27954f613a4fc7c960e0cf7daf548447a39cabbd5e515842840620310e8a057cdbdf647e4aaeca1e150b1d8592a185f661e29166cc72a622814066",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.sv-SE.langpack.xpi",
+    "sha512": "6d7f0c357fe281e0a621c632abcdb88e1ed92bc2d5079f7649ef22bec53b8c07958f77112c1c04d746b04b18b43991bd3c293c4da81bb740827541fdac877d51",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.gl.langpack.xpi",
-    "sha512": "e58e7e52ef9906ea9d6366312da0e5f808561bdc9bd9eada323d209814ef8f51d5fb53cc9e41de4792796da03f0a71a859ab472631656d22b44c1804d9130339",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.bg.langpack.xpi",
+    "sha512": "fcad1f1c06a83bb1b11b1828ae7b3488df07d96701f036aa02631cee479c34ce1a58c80961bf0af88f8db6cbc6ba0846c0438a70c4b64be4df17e42157ae6c7a",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.hsb.langpack.xpi",
-    "sha512": "68b90357cf4b2db4cec4cd2da8c1e6951335f5b6f5bac0273fa88a0b70070ce628cdccdd7ab5cec5ff204d4ad57d20fc48ca33e73cbbedd6f9bd7736f0662959",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.nb-NO.langpack.xpi",
+    "sha512": "c82365ce871923f25d07427f6d897168dfc7c171f5e892222f576ffb34a93389804bba73de61796c94e50900f7e17a31388e17312b2bdd7464b2bc3c8bb0bdd7",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.es-ES.langpack.xpi",
-    "sha512": "81bff579c7acec48f7262d4867e208a35f6297e21a9608cf14f594be8ab7eebadf62e91b6973c19eb21d9a979743c9f8abfd0ad99c9556b706adc4175adf4c3b",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.da.langpack.xpi",
+    "sha512": "30a3a9a52eb57cbf15576d8e32cafb74760cece6b5a948d93f0534217db4c722fece6bd85db0ab9d25c20673c357695760db6e606b4771283a859ae3e4ba9ebc",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.id.langpack.xpi",
-    "sha512": "dd1965db702257a9d2b9ac76cb1ded5818c445f7ff5a690be7c4f032ca0d5bc9c1418dedddcda15d4f1f5ea573eaaf56e1d628189b1ba93e32eb02622d47957b",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.en-CA.langpack.xpi",
+    "sha512": "7f5c3c6d302b52e56e75714751e330f307438b51207a607c5eb9a71105e1fb8326cc3459be1f195dbcfad06eee2b2b70e787ae386c82b0a7bae739f133e58336",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.kk.langpack.xpi",
-    "sha512": "c11b1e27364b1b2398aa89049274dcc4239067ea39c9f1f99ccc993056a40c889dd0de47585dae273a33d87915bdf1d087e3dcfdf67af6afb2c01ffbbf39677e",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.nn-NO.langpack.xpi",
+    "sha512": "ade263c647e74a5b6434efcd60dd3cd7ed1b9ebbe564deb4a02aa87292e6b34edef3538737aad4679c948e0fc63e045ea0c3ec5b2b90ea50fb2a8e670c9814a7",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.lv.langpack.xpi",
-    "sha512": "81407d54762536523d3031c85218fcc306338ae656c34654d602049ada5119d38968e85af127b7c4cfd90a94e3a723bcd72206db10e0242f65fa489fe8e18e86",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.en-GB.langpack.xpi",
+    "sha512": "e461d6d8f67043a77176ace7d36fde17d25984631fdd4e2c796488cb374ebe1a696f128dd663e6ad4510f3f2be627fd85ce0d31e66520ed42ca087cd83256af1",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2024/11/2024-11-26-18-42-24-comm-central-l10n/linux-x86_64/xpi/thunderbird-135.0a1.pt-BR.langpack.xpi",
-    "sha512": "db69f635672bb903ba7ff783c837285eef0ab6752d43f178299c69f06eccc7983a0e0511752fa830284e74707068ac475639bb30138aafda4950a875f759a48d",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/nightly/2025/02/2025-02-28-10-37-35-comm-central-l10n/linux-x86_64/xpi/thunderbird-137.0a1.ja.langpack.xpi",
+    "sha512": "7c25b1b1a4ad650e83e1d7d6c29d8e878f3226f6c25815778e47bdcb9bbe905c141ac47c42df3d11c4afe677b6d4db2058bbb5f2c10b027320f9d26a47af1109",
     "dest": "langpacks"
   }
 ]
